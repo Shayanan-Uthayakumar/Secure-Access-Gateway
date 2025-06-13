@@ -42,7 +42,7 @@ Designed for apps that need temporary access control with zero password handling
 
 ---
 
-### 🧪 Live Demo / Install (Coming Soon)
+### Live Demo / Install (Coming Soon)
 
 ---
 
